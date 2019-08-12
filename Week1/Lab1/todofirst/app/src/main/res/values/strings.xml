@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">first</string>
+    <string name="todo_first">to_first</string>
+    <string name="pre">Previous</string>
+    <string name="nex">Next</string>
+
+    <string-array name="todo_first">
+        <!--<item>0</item>-->
+        <!--<item>1</item>-->
+        <!--<item>2</item>-->
+        <!--<item>3</item>-->
+        <!--<item>4</item>-->
+        <item>wake up</item>
+        <item>drink coffee</item>
+        <item>Laugh</item>
+    </string-array>
+</resources>

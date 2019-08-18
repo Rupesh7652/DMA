@@ -1,17 +1,24 @@
 <resources>
-    <string name="app_name">first</string>
-    <string name="todo_details">todo_details</string>
-    <string name="pre">Previous</string>
-    <string name="nex">Next</string>
 
-    <string-array name="todo_first">
-        <!--<item>0</item>-->
-        <!--<item>1</item>-->
-        <!--<item>2</item>-->
-        <!--<item>3</item>-->
-        <!--<item>4</item>-->
+    <string name="app_name">Todo_details</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="todos">
+
         <item>wake up</item>
         <item>drink coffee</item>
         <item>Laugh</item>
+        <item>Learn more java</item>
+        <item>Go to sleep</item>
+    </string-array>
+    <string-array name="todo_description">
+
+        <item>wake up at 6a.m.</item>
+        <item>drink coffee at himalayan</item>
+        <item>Laugh at least 6mins</item>
+        <item>Learn more java in details</item>
+        <item>Go to sleep early</item>
     </string-array>
 </resources>

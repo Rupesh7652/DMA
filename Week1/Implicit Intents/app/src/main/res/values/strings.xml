@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="website_edittext">http://www.google.com</string>
+    <string name="btn_openwebsite">Open Website</string>
+    <string name="editText2">Golden Gate Bridge</string>
+    <string name="btn_location">Open Location</string>
+    <string name="editText3">\'Twas brillig and the slithy toves</string>
+    <string name="btn_share">Share This Text</string>
+</resources>

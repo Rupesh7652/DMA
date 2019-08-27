@@ -26,6 +26,10 @@
 
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
         android:text="@string/SubHeading" />
+<ScrollView android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:layout_below="@id/textView5">
+
 
     <TextView
         android:id="@+id/textView6"
@@ -33,8 +37,9 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/textView5"
         android:lineSpacingExtra="5sp"
+        android:autoLink="web"
         android:padding="@dimen/padding_regular"
-
         android:text="@string/Article_text" />
 
+</ScrollView>
 </RelativeLayout>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.todomvvm.MainActivity">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_add_black_24dp"
+        app:showAsAction="ifRoom|collapseActionView"
+
+        android:title="Search"/>
+
+
+
+    <item
+        android:id="@+id/clear_data"
+        android:orderInCategory="100"
+        android:title="@string/clear_all_data"
+        app:actionViewClass="android.support.v7.widget.Toolbar"
+        app:showAsAction="ifRoom|collapseActionView" />
+</menu>
